@@ -20,5 +20,8 @@
     "typescript": "^3.5.3",
     "webpack": "^4.39.1",
     "webpack-cli": "^3.3.6"
+  },
+  "dependencies": {
+    "neo4j-driver": "^1.7.5"
   }
 }
